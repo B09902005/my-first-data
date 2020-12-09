@@ -56,3 +56,6 @@ def long(n,i0,j0,i1,j1):
     else:
         return n*n-i0
 
+def x(n):
+    print ('wuwuboss is stupid')
+    

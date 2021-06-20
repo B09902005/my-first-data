@@ -57,7 +57,10 @@ def long(n,i0,j0,i1,j1):
         return n*n-i0
 
 def x(n):
-    print ('wuwuboss is stupid')
+    print ('wuwuboss is so stupid')
     
 def y(n):
     print ('I am a loser!!!!!')
+
+def i(n):
+    print ('i')

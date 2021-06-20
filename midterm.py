@@ -60,4 +60,4 @@ def x(n):
     print ('wuwuboss is stupid')
     
 def y(n):
-    print ('I am a loser')
+    print ('I am a loser!!!')
